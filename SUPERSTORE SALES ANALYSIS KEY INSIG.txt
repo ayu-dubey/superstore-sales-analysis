@@ -1,0 +1,53 @@
+SUPERSTORE SALES ANALYSIS: KEY INSIGHTS (2015-2018)
+
+Section 2: Overview
+
+Total sales are about 2.26 million (2,261,536.78) from 4,922 orders and 793 customers.
+Average order value is 459.48.
+The data covers 4 full years, from 3 Jan 2015 to 30 Dec 2018.
+The store sold 1,861 products in 529 cities.
+
+Section 3: Time
+
+Sales grew from 479,856 in 2015 to 722,052 in 2018. 2018 is the best year.
+2016 fell 4.26%, then 2017 grew 30.64% and 2018 grew 20.30%.
+November (350,162) and December (321,480) are the best months. February (59,371) is the weakest.
+Q4 (Oct-Dec) brings 38.52% of yearly sales, and Q1 only 15.53%. Sales are seasonal.
+Tuesday has the most orders (926). Thursday has the fewest (262).
+
+Section 4: Geography
+
+West is the top region (710,220, 31.40%). South is the lowest (389,151, 17.21%).
+West and East together give about 61% of all sales.
+California (446,306) and New York (306,361) alone give about 33% of sales.
+New York City (252,463) and Los Angeles (173,420) are the top cities.
+West and East grow steadily. South fell 32% in 2016 and then recovered.
+
+Section 5: Products
+
+Technology is the top category (827,456, 36.59%). Furniture is 32.22% and Office Supplies 31.19%.
+Phones (327,782) and Chairs (322,823) are the top sub-categories.
+Fasteners (3,002), Labels (12,348) and Envelopes (16,128) are the weakest.
+Canon image CLASS 2200 Advanced Copier is the top product (61,600).
+All three categories grew from 2015 to 2018.
+
+Section 6: Customers
+
+Sean Miller (25,043) and Tamara Chand (19,052) are the top customers.
+Consumer segment gives about half of sales (50.76%). Corporate is 30.44% and Home Office 18.79%.
+780 of 793 customers (98.36%) ordered more than once, so repeat customers drive the business.
+New customers fell each year: 589 in 2015, 141 in 2016, 52 in 2017 and only 11 in 2018.
+Average sales per customer is 2,851.87.
+
+Section 7: Shipping
+
+Standard Class is used for 59.83% of orders. Same Day is only 5.30%.
+Average delivery takes 3.96 days.
+Delivery time depends on ship mode, not region: Same Day about 0 days, First Class about 2, Second Class about 3, Standard Class about 5.
+
+Section 8: Advanced
+
+Top product in each category: Canon imageCLASS 2200 Copier (Technology), Fellowes PB500 Binding Machine (Office Supplies) and HON 5400 Series Task Chairs (Furniture).
+The running total reaches 2,261,536.78, which equals total sales.
+393 customers (49.56%) give 80% of sales. About half of the customers drive most of the revenue.
+Month-over-month change is very volatile, so the seasonal pattern (Q4 peak) is more useful.

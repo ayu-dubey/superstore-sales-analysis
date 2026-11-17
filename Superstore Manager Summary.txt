@@ -1,0 +1,31 @@
+SUPERSTORE SALES ANALYSIS: SUMMARY FOR MANAGER
+Period: January 2015 to December 2018 | Data: 9,800 sales records
+
+1. Business size
+Total sales are 2.26 million from 4,922 orders and 793 customers. The average order value is 459.48.
+
+2. Growth
+Sales grew from 479,856 in 2015 to 722,052 in 2018. 2017 grew 30.64% and 2018 grew 20.30%. Only 2016 fell (-4.26%).
+
+3. Seasonality
+Q4 (October to December) brings 38.52% of sales. November and December are the best months, and February is the weakest.
+
+4. Regions
+West (31.4%) and East (29.6%) lead. California and New York alone give about 33% of sales. South is the smallest region (17.2%).
+
+5. Products
+Technology is the top category (36.6%). Phones and Chairs are the top sub-categories. Fasteners and Labels are the weakest.
+
+6. Customers
+The Consumer segment gives 50.8% of sales. 98% of customers are repeat customers. About half of the customers (393) give 80% of sales. New customers fell to only 11 in 2018.
+
+7. Shipping
+Standard Class is used for 60% of orders. The average delivery takes 3.96 days, and it depends on the ship mode, not the region.
+
+8. Recommendations
+
+Stock up and run promotions before Q4.
+Push sales in the South and Central regions.
+Look after the top customers and reward repeat buyers.
+Run campaigns to win new customers, because new customers are falling every year.
+Review the very low-selling products, such as Fasteners and Labels.
